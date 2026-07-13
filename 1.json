@@ -1,0 +1,9 @@
+{
+  "id": "1",
+  "subject": "Restructure portfolio into multi-page site",
+  "description": "Create main landing page + 4 subpages: coding.html, finance.html, certifications.html, client-work.html",
+  "activeForm": "Restructuring portfolio site",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}
